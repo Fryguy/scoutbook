@@ -1,0 +1,1 @@
+javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://cdn.jsdelivr.net/gh/Fryguy/scoutbook@master/scoutbook_checkbox_remover.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
